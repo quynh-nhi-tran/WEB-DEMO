@@ -10,5 +10,7 @@
   </head>
   <body>
   <p>Học html</p>
+  <p>Hôm nay học git vs câu lệnh như git commit git push git status,....</p>
+  <p>Tuần này tự học cách làm CV để tuần sau code lên CV đó</p>
   </body>
 </html>
